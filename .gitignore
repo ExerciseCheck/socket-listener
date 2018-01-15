@@ -1,0 +1,10 @@
+node_modules/
+.idea/
+build/*
+
+*.iml
+*.log
+*.swp
+package-lock.json
+.DS_Store
+.directory
